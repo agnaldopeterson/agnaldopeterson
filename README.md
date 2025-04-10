@@ -31,7 +31,7 @@ Aqui estão alguns dos meus projetos mais relevantes:
 ### 3. **Dashboard de Análise de Vendas com Power BI**
    - **Descrição**: Desenvolvimento de dashboards interativos para análise de vendas.
    - **Tecnologias**: Power BI, SQL Server
-   - [Link para o repositório](#)
+   - [[(https://drive.google.com/file/d/1CO7xKGItzWhpnW_OYMa3yAQMM7jEAfHk/view?usp=sharing)](https://app.powerbi.com/groups/me/reports/e0898ca8-61d3-4419-8c85-15051da986aa/a6374cf9d0150e53d00d?experience=power-bi)](#)
 
 ### 4. **Migração de Dados com ETL**
    - **Descrição**: Processos de migração e transformação de dados entre sistemas.
