@@ -21,27 +21,24 @@ Aqui estão alguns dos meus projetos mais relevantes:
 ### 1. **Automação de Processos com Alteryx**
    - **Descrição**: Desenvolvimento de fluxos de automação para processamento e análise de dados.
    - **Tecnologias**: Alteryx, SQL, Oracle
-   - [Link para o repositório](#)
 
 ### 2. **Análise de Dados com Oracle e SQL**
    - **Descrição**: Criação de consultas complexas e relatórios para análise de dados em bancos Oracle.
    - **Tecnologias**: Oracle, SQL, Power BI
-   - [Link para o repositório](#)
 
 ### 3. **Dashboard de Análise de Vendas com Power BI**
    - **Descrição**: Desenvolvimento de dashboards interativos para análise de vendas.
    - **Tecnologias**: Power BI, SQL Server
-   - [[(https://drive.google.com/file/d/1CO7xKGItzWhpnW_OYMa3yAQMM7jEAfHk/view?usp=sharing)](https://app.powerbi.com/groups/me/reports/e0898ca8-61d3-4419-8c85-15051da986aa/a6374cf9d0150e53d00d?experience=power-bi)](#)
+    ![RID185968_Desafio_01](https://github.com/user-attachments/assets/92abd33e-803e-49b5-a556-294c2e85d6e4)
+
 
 ### 4. **Migração de Dados com ETL**
    - **Descrição**: Processos de migração e transformação de dados entre sistemas.
    - **Tecnologias**: Alteryx, Oracle, SQL
-   - [Link para o repositório](#)
 
 ### 5. **Scripts de Otimização de Banco de Dados**
    - **Descrição**: Desenvolvimento de scripts para otimização de consultas e manutenção de bancos de dados.
    - **Tecnologias**: Oracle, SQL Server
-   - [Link para o repositório](#)
 
 ## 🌱 O que estou aprendendo atualmente
 
@@ -57,8 +54,8 @@ Aqui estão alguns dos meus projetos mais relevantes:
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=agnaldopeterson&show_icons=true&theme=dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldopeterson&layout=compact&theme=dark)
 
 ---
